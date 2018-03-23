@@ -1,0 +1,101 @@
+# example navigation
+foo:
+  - title: "Parent Link 1"
+    url: /parent-1-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+
+  - title: "Parent Link 2"
+    url: /parent-2-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+      - title: "Child Link 3"
+        url: /child-3-page-url/
+
+
+# main links links
+main:
+
+  - title: "Public Events"
+    url: /about/
+
+  - title: "Private Events"
+    url: /private/
+
+  - title: "Innovations"
+    url: /bias/
+
+# documentation links
+docs:
+
+  - title: Products
+    children:
+      - title: "Web Scraper"
+        url: /docs/web-scraper/
+      - title: "Platform Restaurant"
+        url: /docs/platformRestaurant/
+      - title: "iCanCode"
+        url: /docs/iCanCode/
+
+  - title: Industry Contributions
+    children:
+      - title: "Proofpoint"
+        url: /docs/proofpoint/
+      - title: "Resume"
+        url: /resume/
+
+  - title: Research Papers
+    children:
+      - title: "Visual Programming Languages"
+        url: /docs/visualProgrammingLanguages/
+      - title: "Visual Detection Research"
+        url: /docs/visualDetectionResearch/
+      - title: "Math Origami Research"
+        url: /docs/mathOrigamiResearch/
+
+  - title: Software Projects
+    children:
+      - title: "Bitcoin Server"
+        url: /docs/bitcoin
+      - title: "iOS-Rusher"
+        url: /docs/rusher/
+      - title: "Arch Linux"
+        url: /docs/archLinux/
+      - title: "Emacs and Lisp"
+        url: /docs/emacs/
+      - title: "Apple Script and AI"
+        url: /docs/appleScript/
+      - title: "Physics and Games"
+        url: /docs/theGreatGame/
+      - title: "Simple Rishi"
+        url : /docs/simpleRishi
+
+  - title: Other Skills
+    children:
+#      - title: "Nintendo 3DS hacks"
+#        url: /docs/nintendo/
+#      - title: "Wifi Printer"
+#        url: /docs/stylesheets/
+#      - title: "itouch Jail Breaking"
+#        url: /docs/itouch/
+#     - title: "Librarian"
+#       url: /docs/contributing/
+      - title: "Magic"
+        url: /docs/magic/
+#      - title: "MapleStory Server"
+#        url: /docs/contributing/
+
+#  - title: Non-Technical Projects
+#    children:
+#      - title: "Salzburg Program"
+#        url: /docs/docs-2-2/
+#      - title: "Clubs"
+#        url: /docs/license/
+#      - title: "Gum Bussiness"
+#        url: /terms/
