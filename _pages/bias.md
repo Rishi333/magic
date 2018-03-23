@@ -1,7 +1,7 @@
 ---
 title: "The Rishi Bias"
 layout: splash
-permalink: /bias
+permalink: /bias/
 header:
   overlay_color: "#fff"
   overlay_image: /assets/images/vase.jpg

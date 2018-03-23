@@ -1,0 +1,1 @@
+bundle exec jekyll s --livereload --config config.yml
