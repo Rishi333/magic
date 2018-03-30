@@ -23,13 +23,13 @@ foo:
 main:
 
   - title: "Public Events"
-    url: /about/
+    url: /public/
 
   - title: "Private Events"
     url: /private/
 
   - title: "Lessons"
-    url: /private/
+    url: /lessons/
 
   - title: "Innovations"
     url: /bias/

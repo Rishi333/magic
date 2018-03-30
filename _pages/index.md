@@ -15,20 +15,20 @@ feature_row:
     alt: "placeholder image 1"
     title: "Public Events"
     excerpt: "Come enjoy great food and the magic experience at select restaurants"
-    url: "#test-link"
+    url: "/public/"
     btn_label: ""
     btn_class: "btn--primary"
   - image_path: /images/private.jpg
     alt: "placeholder image 2"
     title: "Private Events"
     excerpt: "Birthday Parties, Holiday Events, Business Meetings? We got you covered with a Brand of Magic that never fails. Enlighten your audience with a close-up experience!"
-    url: "#test-link"
+    url: "/private/"
     btn_label: "Book Now"
     btn_class: "btn--primary"
   - image_path: /images/lessons.jpeg
     title: "Lessons"
     excerpt: "Learn the art of close-up Magic. Have a hobby that leaves everyone around you with smiles!"
-    url: "#test-link"
+    url: "/lessons/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
