@@ -7,29 +7,35 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/astonishedGirl.jpg
-  cta_label: "Public Events"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Close-up Magic on Demand!"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'We live and breathe the art of close-up magic. Look Below for different ways to **experience** the art'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /images/close-up-magician.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Public Events"
+    excerpt: "Come enjoy great food and the magic experience at select restaurants"
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: ""
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/private.jpg
+    alt: "placeholder image 2"
+    title: "Private Events"
+    excerpt: "Birthday Parties, Holiday Events, Business Meetings? We got you covered with a Brand of Magic that never fails. Enlighten your audience with a close-up experience!"
+    url: "#test-link"
+    btn_label: "Book Now"
+    btn_class: "btn--primary"
+  - image_path: /images/lessons.jpeg
+    title: "Lessons"
+    excerpt: "Learn the art of close-up Magic. Have a hobby that leaves everyone around you with smiles!"
+    url: "#test-link"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+
+
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/close-up-magician.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -57,9 +63,3 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}

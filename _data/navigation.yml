@@ -28,6 +28,9 @@ main:
   - title: "Private Events"
     url: /private/
 
+  - title: "Lessons"
+    url: /private/
+
   - title: "Innovations"
     url: /bias/
 
