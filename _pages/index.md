@@ -7,9 +7,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/astonishedGirl.jpg
-excerpt: "Close-up Magic on Demand!"
+excerpt: "Close-up Magic on Demand, Book a show anywhere in the Bay Area!"
 intro: 
-  - excerpt: 'We live and breathe the art of close-up magic. Look Below for different ways to **experience** the art'
+  - excerpt: 'We live and breathe the art of close-up magic. Look Below for different ways to **experience** the art or for a quote <a href="tel:14085837271">Call Us at 14085837271</a>'
 feature_row:
   - image_path: /images/close-up-magician.jpg
     alt: "placeholder image 1"

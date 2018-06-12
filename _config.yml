@@ -77,9 +77,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-104926652-1"
 
 
 # Site Author
@@ -129,6 +129,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
+  - exampleDocs
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
