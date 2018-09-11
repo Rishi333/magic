@@ -9,7 +9,7 @@ header:
   overlay_image: assets/images/astonishedGirl.jpg
 excerpt: "Close-up Magic on Demand, Book a show anywhere in the Bay Area!"
 intro: 
-  - excerpt: 'We live and breathe the art of close-up magic. Look Below for different ways to **experience** the art or for a quote <a href="tel:14085837271">Call Us at 14085837271</a>'
+  - excerpt: 'We live and breathe the art of close-up magic. Look Below for different ways to **experience** the art or for a quote <a href="sms:14085837271">Text Us at 14085837271</a>'
 feature_row:
   - image_path: /images/close-up-magician.jpg
     alt: "placeholder image 1"

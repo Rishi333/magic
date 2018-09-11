@@ -1,4 +1,4 @@
----
+--
 title: "Configuration"
 permalink: /docs/configuration/
 excerpt: "Settings for configuring and customizing the theme."
@@ -214,7 +214,7 @@ head_scripts:
   - /assets/js/your-custom-head-script.js
 ```
 
-Consult the [JavaScript documentation]({{ site.baseurl }}{% link _docs/17-javascript.md %}) for more information on working with theme scripts.
+
 {: .notice--info}
 
 ### Site Default Teaser Image
