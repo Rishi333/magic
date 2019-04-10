@@ -9,7 +9,7 @@ header:
   cta_url: ""
 excerpt: ""
 intro:
-  - excerpt: 'Please <a href="sms:14085837271">Text Me at 14085837271</a> to chat or book a weekend and discuss how to plan your next adventure. We are located in Fremont,CA to pickup the RV. Google Calendar to see dates that are already booked <a href="https://calendar.google.com/calendar?cid=cGFsNjc4Yzd1cHQzZmhjNzg4MHJtanU0NWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Calendar</a>' 
+  - excerpt: 'Please <a href="sms:14085837271">Text Me at 14085837271</a> to chat or book a weekend and discuss how to plan your next adventure. We are located in Fremont,CA to pickup the RV. For Reservation and Rates info <a href="https://rishispinnaclervrental.square.site/" target="_blank">Book Here</a>. Google Calendar to see dates that are already booked <a href="https://calendar.google.com/calendar?cid=cGFsNjc4Yzd1cHQzZmhjNzg4MHJtanU0NWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Calendar</a>' 
 feature_row:
   - image_path: /assets/images/rvBoard.JPG
     alt: "fully responsive"
