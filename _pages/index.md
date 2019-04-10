@@ -1,63 +1,48 @@
 ---
-title: "The Entertainment Experience"
+title: "Escape our World"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/astonishedGirl.jpg
-excerpt: "Close-up Magic on Demand, Book a show anywhere in the Bay Area!"
-intro: 
-  - excerpt: 'We live and breathe the art of close-up magic. Look Below for different ways to **experience** the art or for a quote <a href="sms:14085837271">Text Us at 14085837271</a>'
+  overlay_color: "#fff"
+  overlay_image: /assets/images/rvRight.JPG
+  cta_label: "To Travel is to Live"
+  cta_url: ""
+excerpt: ""
+intro:
+  - excerpt: 'Please <a href="sms:14085837271">Text Me at 14085837271</a> to chat or book a weekend and discuss how to plan your next adventure. We are located in Fremont,CA to pickup the RV. Google Calendar to see dates that are already booked <a href="https://calendar.google.com/calendar?cid=cGFsNjc4Yzd1cHQzZmhjNzg4MHJtanU0NWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Calendar</a>' 
 feature_row:
-  - image_path: /images/close-up-magician.jpg
-    alt: "placeholder image 1"
-    title: "Public Events"
-    excerpt: "Come enjoy great food and the magic experience at select restaurants"
-    url: "/public/"
-    btn_label: ""
-    btn_class: "btn--primary"
-  - image_path: /images/private.jpg
-    alt: "placeholder image 2"
-    title: "Private Events"
-    excerpt: "Birthday Parties, Holiday Events, Business Meetings? We got you covered with a Brand of Magic that never fails. Enlighten your audience with a close-up experience!"
-    url: "/private/"
-    btn_label: "Book Now"
-    btn_class: "btn--primary"
-  - image_path: /images/lessons.jpeg
-    title: "Lessons"
-    excerpt: "Learn the art of close-up Magic. Have a hobby that leaves everyone around you with smiles!"
-    url: "/lessons/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/rvBoard.JPG
+    alt: "fully responsive"
+    title: "Free Adventure Gear"
+    excerpt: "We load the RV on request with the following possible gear - Raft, 2-person kayak, 3 life jackets, Fishing Rods and Gear, Surfboard "
+  - image_path: /assets/images/rvTravel.JPG
+    alt: "fully responsive"
+    title: "Free Travel Guidance"
+    excerpt: "Book a time to chat so we can discuss how to get the most out of your experience"
+  - image_path: /assets/images/rvGhandi.JPG
+    alt: "fully responsive"
+    title: "Comfort"
+    excerpt: "4 Wheel Drive, Class A View, Bathroom, Shower, Regrigerator, Oven, Microwave, Bedroom"
+#    url: "/docs/web-scraper/"
+#    btn_label: "Learn More"
+  - image_path: /assets/images/rvBurning.JPG
+    alt: "fully responsive"
+    title: "Long Term Rent Available"
+    excerpt: "Burning Man! Plan and go to make the best memories"
+  - image_path: /assets/images/rvSide.JPG
+    alt: "fully responsive"
+    title: "Technology"
+    excerpt: "Solar Panels, 4 Dash cams, 4KW Generator, Propane, 40 Gallon Water, 32 Gallon Gas"
+#    url: "/docs/web-scraper/"
+#    btn_label: "Learn More"
+  - image_path: /assets/images/rvLeft.JPG
+    alt: "fully responsive"
+    title: "Limited Quantity"
+    excerpt: "Only one RV so book popular Weekends Early!"
+#    url: "/docs/web-scraper/"
+#    btn_label: "Learn More"
 
 
-
-feature_row2:
-  - image_path: /images/close-up-magician.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

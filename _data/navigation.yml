@@ -21,22 +21,21 @@ foo:
 
 # main links links
 main:
-
-  - title: "Public Events"
-    url: /public/
-
-  - title: "Private Events"
-    url: /private/
-
-  - title: "Lessons"
-    url: /lessons/
-
+#  - title: "Book Now"
+#    url: /rvCalendar/
+  - title: "The Illusionist"
+    url: /magic/
+#  - title: "Public Events"
+#    url: /public/
+#  - title: "Private Events"
+#    url: /private/
+#  - title: "Lessons"
+#    url: /lessons/
   - title: "Innovations"
     url: /bias/
 
 # documentation links
 docs:
-
   - title: Products
     children:
       - title: "Web Scraper"
