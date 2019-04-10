@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/rvGhandi.JPG
     alt: "fully responsive"
     title: "Comfort"
-    excerpt: "4 Wheel Drive, Class A View, Bathroom, Shower, Regrigerator, Oven, Microwave, Bedroom"
+    excerpt: "4 Wheel Drive, Class A View, Bathroom, Shower, Refrigerator, Oven, Microwave, Bedroom"
 #    url: "/docs/web-scraper/"
 #    btn_label: "Learn More"
   - image_path: /assets/images/rvBurning.JPG
